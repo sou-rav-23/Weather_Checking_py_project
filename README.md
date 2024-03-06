@@ -1,5 +1,8 @@
 # Weather_Checking_application
 
- ## It's a terminal based application for checking your current city's weather easily.
- ## You have to run the program and install the request module.
- ## Just enter your city name and click "Enter" => boom 💥 .
+ ## This terminal-based application allows you to quickly check the current weather in your city.
+ ## You must first install `Python` on your computer and the `Request Library` in your repository by running the below command.
+```
+  python -m pip install requests
+```
+ ## Just enter your city name as a input and click "Enter" => boom 💥 .
